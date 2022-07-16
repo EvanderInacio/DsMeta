@@ -1,0 +1,25 @@
+.footer_divider {
+  height: 3.2px;
+  background: linear-gradient(
+    270deg,
+    hsla(240, 95%, 85%, 1.8),
+    hsla(240, 100%, 45%, 2.55)
+  );
+}
+
+.footer_copy {
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+.footer_copy .footer_link {
+  color: hsl(182, 57%, 50%);
+}
+
+.footer_copy a:hover {
+  color: hsl(152, 100%, 50%);
+}
