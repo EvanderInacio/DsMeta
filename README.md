@@ -2,14 +2,13 @@
   DsMeta 📊
 </h1>
 
-![Resultado final do projeto](https://raw.githubusercontent.com/EvanderInacio/Bio/main/src/assets/img/dsmeta.png)
+![Resultado final do projeto](https://raw.githubusercontent.com/EvanderInacio/DsMeta/main/frontend/src/assets/img/dsmeta.png)
 
 <br>
 
 ## 📝 Descrição 
-```
+
 Aplicação de listagem de vendas, com a opção de filtrar determinados períodos de vendas por data. 
-```
 
 - site final: [DsMeta](https://dsmeta-evander.netlify.app/) 
 
